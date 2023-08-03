@@ -9,3 +9,10 @@ This repository is intended for use in learning ALX C programming.
 0x03-debugging: We have seen the concepts and processes of manual debugging.
 
 0x04-more_functions_nested_loops: We deepen our knowledge of the functions.
+
+0x08-recursion: In this project, we see:
+
+	* What is recursion
+	* How to implement recursion
+	* In what situations you should implement recursion
+	* In what situations you shouldn’t implement recursion
