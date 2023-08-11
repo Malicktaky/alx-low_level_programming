@@ -16,3 +16,8 @@ This repository is intended for use in learning ALX C programming.
 	* How to implement recursion
 	* In what situations you should implement recursion
 	* In what situations you shouldn’t implement recursion
+
+0x0C-more_malloc_free: In this project, we see:
+
+	* How to use the exit function
+	* What are the functions calloc and realloc from the standard library and how to use them
