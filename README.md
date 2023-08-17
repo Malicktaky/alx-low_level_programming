@@ -21,3 +21,9 @@ This repository is intended for use in learning ALX C programming.
 
 	* How to use the exit function
 	* What are the functions calloc and realloc from the standard library and how to use them
+
+0x0F-function_pointers: In this project, we see:
+
+	* What are function pointers and how to use them
+	* What does a function pointer exactly hold
+	* Where does a function pointer point to in the virtual memory
