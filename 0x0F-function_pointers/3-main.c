@@ -23,7 +23,7 @@ int main(int argc, char **argv)
 		exit(98);
 	}
 	calcul = get_op_func(operator);
-	if (calcul == NULL)
+	if (calcul == NULL || operator[1] != '\0')
 	{
 		printf("Error\n");
 		exit(99);
@@ -33,6 +33,7 @@ int main(int argc, char **argv)
 		printf("Error\n");
 		exit(100);
 	}
+
 	calc = calcul(num1, num2);
 	printf("%d\n", calc);
 
