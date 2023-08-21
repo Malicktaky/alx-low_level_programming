@@ -27,3 +27,9 @@ This repository is intended for use in learning ALX C programming.
 	* What are function pointers and how to use them
 	* What does a function pointer exactly hold
 	* Where does a function pointer point to in the virtual memory
+
+0x0D-preprocessor: In this project, we see:
+
+	* What are macros and how to use them
+	* What are the most common predefined macros
+	* How to include guard your header files
