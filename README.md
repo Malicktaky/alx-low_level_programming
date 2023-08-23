@@ -32,4 +32,9 @@ This repository is intended for use in learning ALX C programming.
 
 	* What are macros and how to use them
 	* What are the most common predefined macros
-	* How to include guard your header files
+	*i How to include guard your header files
+
+0x0E-structures_typedef: In this project, we see:
+
+	* What are structures, when, why and how to use them
+	* How to use typedef
