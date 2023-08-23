@@ -38,3 +38,9 @@ This repository is intended for use in learning ALX C programming.
 
 	* What are structures, when, why and how to use them
 	* How to use typedef
+
+0x10-variadic_functions: In this project, we see:
+
+	* What are variadic functions
+	* How to use va_start, va_arg and va_end macros
+	* Why and how to use the const type qualifier
