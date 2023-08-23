@@ -2,6 +2,7 @@
 #define __DOG_H__
 
 #include <stddef.h>
+#include <stdio.h>
 
 /**
  * struct dog - Struct dog
@@ -19,5 +20,6 @@ struct dog
 };
 
 void init_dog(struct dog *d, char *name, float age, char *owner);
+void print_dog(struct dog *d);
 
 #endif
