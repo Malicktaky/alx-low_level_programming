@@ -17,6 +17,12 @@ This repository is intended for use in learning ALX C programming.
 	* In what situations you should implement recursion
 	* In what situations you shouldn’t implement recursion
 
+0x0A-argc_argv: In this project, we see:
+
+	* How to use arguments passed to your program
+	* What are two prototypes of main that you know of, and in which case do you use one or the other
+	* How to use __attribute__((unused)) or (void) to compile functions with unused variables or parameters
+
 0x0C-more_malloc_free: In this project, we see:
 
 	* How to use the exit function
