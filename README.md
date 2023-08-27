@@ -23,6 +23,13 @@ This repository is intended for use in learning ALX C programming.
 	* What are two prototypes of main that you know of, and in which case do you use one or the other
 	* How to use __attribute__((unused)) or (void) to compile functions with unused variables or parameters
 
+0x0B-malloc_free: In this project, we see:
+
+	* What is the difference between automatic and dynamic allocation
+	* What is malloc and free and how to use them
+	* Why and when use malloc
+	* How to use valgrind to check for memory leak
+
 0x0C-more_malloc_free: In this project, we see:
 
 	* How to use the exit function
