@@ -45,7 +45,7 @@ This repository is intended for use in learning ALX C programming.
 
 	* What are macros and how to use them
 	* What are the most common predefined macros
-	*i How to include guard your header files
+	* i How to include guard your header files
 
 0x0E-structures_typedef: In this project, we see:
 
@@ -62,3 +62,8 @@ This repository is intended for use in learning ALX C programming.
 
 	* When and why using linked lists vs arrays
 	* How to build and use linked lists
+
+0x13-more_singly_linked_lists: In this project, we see:
+
+	* How to use linked lists
+	* Start to look for the right source of information without too much help
