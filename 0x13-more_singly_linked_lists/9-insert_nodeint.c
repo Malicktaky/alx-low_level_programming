@@ -10,7 +10,7 @@
  */
 listint_t *insert_nodeint_at_index(listint_t **head, unsigned int idx, int n)
 {
-	listint_t *tmp, *count_node, new_node;
+	listint_t *tmp, *count_node, *new_node;
 	size_t i = 0, j = 0;
 
 	count_node = (*head);
